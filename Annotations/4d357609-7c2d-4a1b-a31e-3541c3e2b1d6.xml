@@ -1,0 +1,1 @@
+<annotation><folder>JPEGImages</folder><filename>4d357609-7c2d-4a1b-a31e-3541c3e2b1d6.jpg</filename><size><width>960</width><height>540</height><depth>3</depth></size><object><name>wheat_flour_blue_label</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>26</xmin><ymin>2</ymin><xmax>230</xmax><ymax>140</ymax></bndbox></object></annotation>

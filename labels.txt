@@ -1,0 +1,2 @@
+wheat_flour_blue_label
+maize_flour_green_label
